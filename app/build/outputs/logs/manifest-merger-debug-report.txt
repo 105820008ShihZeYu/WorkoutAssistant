@@ -29,7 +29,7 @@ INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\
 INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
 INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
 	package
-		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:19:11-46
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:19:11-49
 		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -70,14 +70,14 @@ MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CaesarYu\.gradle\cach
 		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:27:9-35
 	android:theme
 		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:30:9-45
-activity#com.edvard.poseestimation.CameraActivity
+activity#com.android.workoutassistant.CameraActivity
 ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:32:9-40:20
 	android:screenOrientation
 		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:35:13-49
 	android:label
 		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:34:13-45
 	android:name
-		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:33:13-68
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:33:13-71
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:36:13-39:29
 action#android.intent.action.MAIN

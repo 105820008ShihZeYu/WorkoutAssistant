@@ -16,12 +16,12 @@
 -->
 
 <resources>
-    <string name="app_name">PoseEstimationDemo</string>
+    <string name="app_name">WorkoutAssistantDemo</string>
     <string name="intro_message">
         <![CDATA[
 
 
-            PoseEstimation For Mobile
+            WorkoutAssistantDemo
 
 
         ]]>

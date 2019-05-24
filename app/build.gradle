@@ -5,7 +5,7 @@ android {
     compileSdkVersion buildConfig.compileSdk
     buildToolsVersion '27.0.3'
     defaultConfig {
-        applicationId "com.edvard.poseestimation"
+        applicationId "com.android.workoutassistant"
         minSdkVersion buildConfig.minSdk
         targetSdkVersion buildConfig.targetSdk
         versionCode 1
