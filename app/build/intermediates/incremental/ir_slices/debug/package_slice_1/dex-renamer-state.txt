@@ -1,0 +1,4 @@
+#Fri May 24 15:06:47 CST 2019
+base.0=E\:\\Desktop\\studying\\PROJECT\\Android\\demo_tflite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

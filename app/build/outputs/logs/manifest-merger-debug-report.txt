@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
+MERGED from [:openCVLibrary341] E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\openCVLibrary341\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:tensorflow-lite:] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\tensorflow-lite.aar\f757229f2018fde4b188e7ddba876d39\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\82c7a3f75e8f6349d6294f716dc59a09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\13840ff31706b27bba26a6fcd41ca03c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\502baccb1969f8b430f4e1984d59482c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\c4d79c11cd9bbeb4d00349ec84ba9337\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\92a10d156dbeeabd8a6ca3d5abdf0bf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\121c6972e1c56b43a83197f957192a58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bd998413c1a23758472d9d82ca5819cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\30226a6cab9b50b55ab9b2895442a4e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\958aadd6b5d9c84338e84c7d0f132650\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b09f3495e2bb9fe49b8f95a02bec8dc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\83232506e6d25701c3417f1a90896fa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cd266fa06a637513f7edbd45365142ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f219f9026e5a911328d8a08003a64833\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b4a1aca23655a0dad32c704666fff6a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\49f82e4a7cdfc47d72a312fe85b7e684\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3147a8ad13699d1bc4ab87cff2a5b537\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\abf546eeaf5509db064dff7873fd8d30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\771ecea929bb0a5d46edd090added8f3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f82825d80eda05dc046e31d693a1add\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:19:11-46
+		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
+		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12
+		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:23:5-59
+	android:name
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:24:5-69
+	android:name
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:26:5-41:19
+MERGED from [:tensorflow-lite:] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\tensorflow-lite.aar\f757229f2018fde4b188e7ddba876d39\AndroidManifest.xml:4:5-5:19
+MERGED from [:tensorflow-lite:] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\tensorflow-lite.aar\f757229f2018fde4b188e7ddba876d39\AndroidManifest.xml:4:5-5:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\502baccb1969f8b430f4e1984d59482c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\502baccb1969f8b430f4e1984d59482c\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\49f82e4a7cdfc47d72a312fe85b7e684\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\49f82e4a7cdfc47d72a312fe85b7e684\AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:30:9-45
+activity#com.edvard.poseestimation.CameraActivity
+ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:screenOrientation
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:33:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+MERGED from [:openCVLibrary341] E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\openCVLibrary341\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary341] E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\openCVLibrary341\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\82c7a3f75e8f6349d6294f716dc59a09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\82c7a3f75e8f6349d6294f716dc59a09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\13840ff31706b27bba26a6fcd41ca03c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\13840ff31706b27bba26a6fcd41ca03c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\502baccb1969f8b430f4e1984d59482c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\502baccb1969f8b430f4e1984d59482c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\c4d79c11cd9bbeb4d00349ec84ba9337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\c4d79c11cd9bbeb4d00349ec84ba9337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\92a10d156dbeeabd8a6ca3d5abdf0bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\92a10d156dbeeabd8a6ca3d5abdf0bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\121c6972e1c56b43a83197f957192a58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\121c6972e1c56b43a83197f957192a58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bd998413c1a23758472d9d82ca5819cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bd998413c1a23758472d9d82ca5819cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\30226a6cab9b50b55ab9b2895442a4e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\30226a6cab9b50b55ab9b2895442a4e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\958aadd6b5d9c84338e84c7d0f132650\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\958aadd6b5d9c84338e84c7d0f132650\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b09f3495e2bb9fe49b8f95a02bec8dc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b09f3495e2bb9fe49b8f95a02bec8dc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\83232506e6d25701c3417f1a90896fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\83232506e6d25701c3417f1a90896fa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cd266fa06a637513f7edbd45365142ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\cd266fa06a637513f7edbd45365142ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f219f9026e5a911328d8a08003a64833\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f219f9026e5a911328d8a08003a64833\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b4a1aca23655a0dad32c704666fff6a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b4a1aca23655a0dad32c704666fff6a8\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\49f82e4a7cdfc47d72a312fe85b7e684\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\49f82e4a7cdfc47d72a312fe85b7e684\AndroidManifest.xml:5:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3147a8ad13699d1bc4ab87cff2a5b537\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3147a8ad13699d1bc4ab87cff2a5b537\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\abf546eeaf5509db064dff7873fd8d30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\abf546eeaf5509db064dff7873fd8d30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\771ecea929bb0a5d46edd090added8f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\771ecea929bb0a5d46edd090added8f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f82825d80eda05dc046e31d693a1add\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\CaesarYu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f82825d80eda05dc046e31d693a1add\AndroidManifest.xml:20:5-44
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\Desktop\studying\PROJECT\Android\WorkoutAssistant\app\src\main\AndroidManifest.xml:18:1-43:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE
